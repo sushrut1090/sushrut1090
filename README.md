@@ -1,5 +1,5 @@
 - Hi, I’m Sushrut currently studying Masters in Mathematical Engineering At KU Leuven. 
--I’m interested in Cryptography, Lattices and Geometry of Numbers. I even have interest in construction of low discrepancy sequences, and its application in Numerical integration.
+
 - How to reach me sushrut1090@gmail.com
 
 <!---
